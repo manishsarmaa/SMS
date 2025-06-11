@@ -10,7 +10,9 @@ This project is ideal for learning database normalization, SQL queries, and unde
 ## 📹 Entity Relationship Diagram
 
 Below is the ER Diagram representing the structure and relationships of the College Database.  
-[![Watch the ER Diagram Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+
+![Watch the ER Diagram Video](https://github.com/user-attachments/assets/ca4c0780-8e3d-428e-b383-b02f6fb7081e)
+
 
 
 
