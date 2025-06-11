@@ -15,7 +15,6 @@ Below is the ER Diagram representing the structure and relationships of the Coll
 
 
 
-
 ---
 
 
@@ -56,7 +55,6 @@ Full technical documentation is available in PDF format, detailing:
 - Table relationships
 - SQL query logic for analytical use cases
 
-📥 [Download PDF Documentation](./College_Database_Documentation.pdf)
 
 ---
 
